@@ -59,7 +59,7 @@ page_sections:
     alt_text: Customize Blocks
 - template: 1-column-text
   block: one-column-1
-  slug: Projects
+  slug: projects
   headline: 16 Fully Responsive Design Blocks
   content: |
     The Design Blocks can be used without Forestry but to harness the power
