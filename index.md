@@ -18,7 +18,7 @@ page_sections:
   - link: "#blocks"
     link_text: Blocks
   cta:
-    url: mailto:christopher.buss+jobs@protonmail.com
+    url: mailto:christopher.buss+portfolio@protonmail.com
     button_text: Contact Me
 - template: hero-banner-w-image
   block: hero-2
