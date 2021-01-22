@@ -2,9 +2,7 @@
 title: My Portfolio
 author: Christopher Buss
 email: christopher.buss@pm.me
-description: ubuild-jekyll is a Jekyll theme desgined to work with Forestry's Blocks
-  feature. This theme provides a set of page-level components and a pre-configured
-  Forestry Blocks UI that will empower content editors to construct their own webpages.
+description: Welcome to my portfolio.
 baseurl: "/"
 url: ''
 defaults:

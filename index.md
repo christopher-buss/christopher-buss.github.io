@@ -18,17 +18,18 @@ page_sections:
   - link: "#blocks"
     link_text: Blocks
   cta:
-    url: https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll
-    button_text: Import
+    url: mailto:christopher.buss+portfolio@protonmail.com
+    button_text: Contact Me
 - template: hero-banner-w-image
   block: hero-2
   slug: features
-  headline: future<br><strong>game dev.</strong>
-  content: Aspiring software engineer.<br>Unreal Engine enthusiast.
+  headline: future<br><strong>game developer</strong>
+  content: Aspiring Software Engineer.<br>You'll probably find me either coding or
+    playing video games.
   cta:
     enabled: true
-    url: https://github.com/forestryio/ubuild-jekyll
-    button_text: 'See on GitHub '
+    url: https://github.com/christopher-buss/
+    button_text: My Github
   image:
     image: "/uploads/2018/06/21/product-shot-1.png"
     alt_text: Intro
