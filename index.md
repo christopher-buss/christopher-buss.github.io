@@ -1,20 +1,20 @@
 ---
 layout: blocks
 title: Homepage
-date: 2021-01-22 19:30:00 +0000
+date: 2021-01-22T19:30:00.000+00:00
 page_sections:
 - template: navigation-header-w-button
   block: header-2
   logo: "/uploads/2018/06/21/forestry-full.svg"
   navigation:
   - link: "/"
-    link_text: Ubuild
-  - link: "#swap"
-    link_text: Swap
-  - link: "#customize"
-    link_text: Customize
-  - link: "#responsive"
-    link_text: Responsive
+    link_text: Home
+  - link: "#about"
+    link_text: About
+  - link: "#Skills"
+    link_text: Skills
+  - link: "#Projects"
+    link_text: Projects
   - link: "#blocks"
     link_text: Blocks
   cta:
