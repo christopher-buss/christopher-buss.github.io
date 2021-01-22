@@ -24,11 +24,12 @@ page_sections:
   block: hero-2
   slug: features
   headline: future<br><strong>game developer</strong>
-  content: Aspiring software engineer.<br>Unreal Engine enthusiast.
+  content: Aspiring Software Engineer.<br>You'll probably find me either coding or
+    playing video games.
   cta:
     enabled: true
-    url: https://github.com/forestryio/ubuild-jekyll
-    button_text: 'See on GitHub '
+    url: https://github.com/christopher-buss/
+    button_text: My Github
   image:
     image: "/uploads/2018/06/21/product-shot-1.png"
     alt_text: Intro
