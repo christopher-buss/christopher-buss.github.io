@@ -33,7 +33,7 @@ page_sections:
   image:
     image: "/uploads/2018/06/21/product-shot-1.png"
     alt_text: Intro
-  background_image: "/uploads/2018/06/21/forestry-symbol.svg"
+  background_image: "/uploads/2018/06/21/hero-2-bg.png"
 - template: content-feature
   block: feature-1
   media_alignment: Left
