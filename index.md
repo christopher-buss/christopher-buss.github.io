@@ -44,7 +44,7 @@ page_sections:
     development practices and reduce crunch.<br><br>Advocate for clean, consistent
     code, automated testing, and the use of behaviour-driven development.
   media:
-    image: "/blocks/blocks-split.png"
+    image: "/uploads/profilepicture.png"
     alt_text: uBuild Blocks Mock-Up
 - template: content-feature
   block: feature-1
