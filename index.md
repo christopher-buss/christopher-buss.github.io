@@ -39,10 +39,10 @@ page_sections:
   media_alignment: Left
   slug: about
   headline: "<strong>about me</strong>"
-  content: Student at Royal Holloway, University of London.<br>Interested in how mainstream
-    methodologies can be applied to the games industry pipeline to improve development
-    practices and reduce crunch.<br>Advocate for clean, consistent code, automated
-    testing, and the use of behaviour-driven development.
+  content: Student at Royal Holloway, University of London.<br><br>Interested in how
+    mainstream methodologies can be applied to the games industry pipeline to improve
+    development practices and reduce crunch.<br><br>Advocate for clean, consistent
+    code, automated testing, and the use of behaviour-driven development.
   media:
     image: "/blocks/blocks-split.png"
     alt_text: uBuild Blocks Mock-Up
