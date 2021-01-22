@@ -13,7 +13,7 @@ page_sections:
     link_text: About
   - link: "#skills"
     link_text: Skills
-  - link: "#Projects"
+  - link: "#projects"
     link_text: Projects
   - link: "#blocks"
     link_text: Blocks
