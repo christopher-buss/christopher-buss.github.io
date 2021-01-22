@@ -32,7 +32,7 @@ page_sections:
     button_text: My Github
   image:
     image: "/uploads/unreal.gif"
-    alt_text: Intro
+    alt_text: Unreal Waving Mannequin
   background_image: "/uploads/hero-2-bg.png"
 - template: content-feature
   block: feature-1
