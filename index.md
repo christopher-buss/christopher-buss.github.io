@@ -18,8 +18,8 @@ page_sections:
   - link: "#blocks"
     link_text: Blocks
   cta:
-    url: https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll
-    button_text: Import
+    url: mailto:christopher.buss+jobs@protonmail.com
+    button_text: Contact Me
 - template: hero-banner-w-image
   block: hero-2
   slug: features
