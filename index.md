@@ -38,7 +38,7 @@ page_sections:
   block: feature-1
   media_alignment: Left
   slug: about
-  headline: "<strong>about me</strong>"
+  headline: "<strong>About Me</strong>"
   content: Student at Royal Holloway, University of London.<br><br>Interested in how
     mainstream methodologies can be applied to the games industry pipeline to improve
     development practices and reduce crunch.<br><br>Advocate for clean, consistent
