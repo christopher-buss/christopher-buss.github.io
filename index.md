@@ -11,7 +11,7 @@ page_sections:
     link_text: Home
   - link: "#about"
     link_text: About
-  - link: "#Skills"
+  - link: "#skills"
     link_text: Skills
   - link: "#Projects"
     link_text: Projects
