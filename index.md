@@ -24,8 +24,7 @@ page_sections:
   block: hero-2
   slug: features
   headline: future<br><strong>game dev.</strong>
-  content: The tool that allows you to build beautiful sites<br>all inside Forestry's
-    content manager.
+  content: Aspiring software engineer.<br>Unreal Engine enthusiast.
   cta:
     enabled: true
     url: https://github.com/forestryio/ubuild-jekyll
