@@ -23,7 +23,7 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   slug: features
-  headline: future<br><strong>game developer.</strong>
+  headline: future.<br><strong>game developer.</strong>
   content: Aspiring Software Engineer.<br>You'll probably find me either coding or
     playing video games.
   cta:
