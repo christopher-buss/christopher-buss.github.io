@@ -31,9 +31,9 @@ page_sections:
     url: https://github.com/christopher-buss/
     button_text: My Github
   image:
-    image: "/blocks/product-shot-1.png"
+    image: "/uploads/product-shot-1.png"
     alt_text: Intro
-  background_image: "/uploads/gameoftagcpp.png"
+  background_image: "/uploads/hero-2-bg.png"
 - template: content-feature
   block: feature-1
   media_alignment: Left
