@@ -37,7 +37,7 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  slug: about
+  slug: About
   headline: <strong>Swap &amp; Switch<span class="light">&nbsp;</span></strong><span
     class="light">the Blocks to create sites quickly</span>
   content: Quickly assemble and create custom sites with 16 design blocks for seven
@@ -48,7 +48,7 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  slug: skills
+  slug: Skills
   headline: <strong>Customize Blocks</strong><span class="light">&nbsp;to make quick
     edits throughout your new site</span>
   content: Each block comes with custom Front Matter that can be edited in Forestry
