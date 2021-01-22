@@ -31,7 +31,7 @@ page_sections:
     url: https://github.com/christopher-buss/
     button_text: My Github
   image:
-    image: "/uploads/product-shot-1.png"
+    image: "/uploads/unreal.gif"
     alt_text: Intro
   background_image: "/uploads/hero-2-bg.png"
 - template: content-feature
