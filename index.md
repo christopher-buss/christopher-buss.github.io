@@ -23,7 +23,7 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   slug: features
-  headline: future<br><strong>game dev.</strong>
+  headline: future<br><strong>game developer</strong>
   content: Aspiring software engineer.<br>Unreal Engine enthusiast.
   cta:
     enabled: true
