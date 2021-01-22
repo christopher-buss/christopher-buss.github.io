@@ -31,9 +31,9 @@ page_sections:
     url: https://github.com/christopher-buss/
     button_text: My Github
   image:
-    image: "/uploads/2018/06/21/product-shot-1.png"
+    image: "/blocks/product-shot-1.png"
     alt_text: Intro
-  background_image: "/uploads/2018/06/21/hero-2-bg.png"
+  background_image: "/blocks/hero-2-bg.png"
 - template: content-feature
   block: feature-1
   media_alignment: Left
@@ -44,7 +44,7 @@ page_sections:
     practices and reduce crunch.<br>Advocate for clean, consistent code, automated
     testing, and the use of behaviour-driven development.
   media:
-    image: "/uploads/2018/06/21/blocks-split.png"
+    image: "/blocks/blocks-split.png"
     alt_text: uBuild Blocks Mock-Up
 - template: content-feature
   block: feature-1
