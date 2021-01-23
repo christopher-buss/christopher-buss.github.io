@@ -50,12 +50,11 @@ page_sections:
   block: feature-1
   media_alignment: Right
   slug: skills
-  headline: <strong>Customize Blocks</strong><span class="light">&nbsp;to make quick
-    edits throughout your new site</span>
+  headline: <strong>My skills</strong><span class="light"> from </span>codersrank
   content: Each block comes with custom Front Matter that can be edited in Forestry
     CMS.
   media:
-    image: "/uploads/2018/06/21/edit.gif"
+    image: "/uploads/techstack.png"
     alt_text: Customize Blocks
 - template: 1-column-text
   block: one-column-1
