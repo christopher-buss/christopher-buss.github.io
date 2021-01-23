@@ -33,7 +33,7 @@ page_sections:
   image:
     image: "/uploads/unreal1.gif"
     alt_text: Unreal Waving Mannequin
-  background_image: "/uploads/hero-2-bg.png"
+  background_image: ''
 - template: content-feature
   block: feature-1
   media_alignment: Left
