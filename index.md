@@ -5,7 +5,7 @@ date: 2021-01-22T19:30:00.000+00:00
 page_sections:
 - template: navigation-header-w-button
   block: header-2
-  logo: ''
+  logo: "/uploads/tester.png"
   navigation:
   - link: "/"
     link_text: Home
