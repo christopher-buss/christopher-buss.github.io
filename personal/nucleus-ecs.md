@@ -14,7 +14,7 @@ description: >-
 
 ### Key Skills
 
-
+TypeScript, Prototyping, Profiling, Designing, Building Usable APIs, Documentation writing
 
 Cras mattis consectetur purus sit amet fermentum. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
 
