@@ -1,16 +1,16 @@
 # 🧱 Unannounced Project 1 - Sumo Digital
 
-As currently this project is still unannounced, I am unable to show any project visuals or discuss specific work that I participated in. However, I can still provide a. overview of my work done and my skills used.
+As currently this project is still unannounced, I am unable to show any project visuals or discuss specific work that I participated in. However, I can still provide an overview of my work done and my skills used.
+
+***
+
+I worked as a gameplay programmer in a team of programmers on a large project (100+ employees) using an in-house engine built using an entity-component system architecture in C++. The codebase consisted of four repositories - one shared for code reuse between games, two for other games being developed alongside in parallel, and the final repository for the unannounced project I worked on.
 
 ***
 
 ### Key Skills
 
-C++, ECS, Perforce, Mathematics
-
-I worked as a gameplay programmer on a large project (100+ employees) using an in-house engine built using an entity-component system architecture in C++. The codebase consisted of four repositories - one shared for code reuse between games, two for other games being developed alongside in parallel, and the final repository for the unannounced project I worked on.
-
-
+C++, ECS, Perforce, Mathematics, Design Patterns
 
 ### Technical Skills
 

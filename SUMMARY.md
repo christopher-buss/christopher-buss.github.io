@@ -5,7 +5,7 @@
 ## Work Experience
 
 * [🧱 Unannounced Project 1 - Sumo Digital](work-experience/unannounced-project-1-sumo-digital.md)
-* [📝 Unannounced Project 2 - Sumo Digital](work-experience/unannounced-project-2-sumo-digital.md)
+* [🗺 Unannounced Project 2 - Sumo Digital](work-experience/unannounced-project-2-sumo-digital.md)
 * [🎈 Pranksters - Aether Interactive](work-experience/pranksters-aether-interactive.md)
 
 ## Personal
