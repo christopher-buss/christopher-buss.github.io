@@ -8,15 +8,15 @@
 * [📝 Unannounced Project 2 - Sumo Digital](work-experience/unannounced-project-2-sumo-digital.md)
 * [🎈 Pranksters - Aether Interactive](work-experience/pranksters-aether-interactive.md)
 
-## Education
-
-* [📪 Software Methodologies in AAA - University](education/software-methodologies-in-aaa-university.md)
-* [📎 Understanding Projects](education/understanding-projects.md)
-
 ## Personal
 
 * [🖥 Nucleus (ECS)](personal/nucleus-ecs.md)
 * [🎨 ESLint Config](personal/eslint-config.md)
+
+## Education
+
+* [📪 Software Methodologies in AAA - University](education/software-methodologies-in-aaa-university.md)
+* [📎 Understanding Projects](education/understanding-projects.md)
 
 ***
 

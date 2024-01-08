@@ -1,6 +1,12 @@
 # 📪 Software Methodologies in AAA - University
 
-## Step 1 - Start journalling
+As part of my University degree, I wrote a 15,000 word dissertation researching how AAA studios could implement mainstream software methodologies, such as automated testing, to enhance the development process when building games. Included are examples of automated testing using Unreal Engine 4, a deep dive into aspects of useful software such as Git and Perforce, CI/CI, and design patterns, along with some proof-of-concept programs to demonstrate the theoretical aspects covered.
+
+{% file src="../.gitbook/assets/software-methodologies-dissertation.pdf" %}
+Full University Dissertation
+{% endfile %}
+
+## Highlights
 
 Donec sed odio dui. Curabitur blandit tempus porttitor. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Donec ullamcorper nulla non metus auctor fringilla. Maecenas sed diam eget risus varius blandit sit amet non magna. Aenean lacinia bibendum nulla sed consectetur.
 
