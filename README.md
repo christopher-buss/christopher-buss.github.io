@@ -24,9 +24,9 @@ game lover. **game developer**.
 
 I'm Christopher, a Software Engineer in the games industry.
 
-I'm primarily interested in how mainstream software methodologies can be applied to the games inudstry pipeline, to help improve the developer experience, reduce code complexity, lower development costs, and reduce crunch.
+I'm primarily interested in how mainstream software methodologies can be applied to the games inudstry pipeline to help improve the developer experience, reduce code complexity, lower development costs, and reduce crunch.
 
-I am a big proponent for clean and simple code that gets the job done while still fully meeting business needs. I am also an advocate for the use of good software practices such as entity-component systems (I built my own [Broken link](broken-reference "mention")!), automated testing using behaviour-driven development, and the usage of design patterns to simplify common problems.
+I am a big proponent for clean and simple code that gets the job done while still fully meeting business needs. I am also an advocate for the use of good software practices such as entity-component systems (I built my own [nucleus-ecs.md](personal/nucleus-ecs.md "mention")!), automated testing using behaviour-driven development, and the usage of design patterns to simplify common problems.
 
 ## My Socials
 

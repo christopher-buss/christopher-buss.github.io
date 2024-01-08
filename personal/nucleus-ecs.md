@@ -7,12 +7,14 @@ description: >-
 # 🖥 Nucleus (ECS)
 
 {% hint style="info" %}
-**Good to know:** originally developed by me during my time as Aether Interactive as part of Tina (a development framework for experiences on Roblox), but has since been moved and maintained in my own personal repository.
+**Extra:** originally developed by me during my time as Aether Interactive as part of Tina (a development framework for experiences on Roblox), but has since been moved and maintained in my own personal repository.
 {% endhint %}
 
-{% @github-files/github-code-block %}
+{% @github-files/github-code-block url="https://github.com/christopher-buss/nucleus" %}
 
-## GitHub Integrations
+### Key Skills
+
+
 
 Cras mattis consectetur purus sit amet fermentum. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
 
