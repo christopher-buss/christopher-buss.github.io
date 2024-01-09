@@ -8,25 +8,13 @@ A party game inspired by Ultimate Chicken Horse and Super Mario Party for PC, Mo
 Pranksters Game Page
 {% endembed %}
 
-As a gameplay programmer at Aether Interactive, I was apart of a small team creating experiences on the roblox platform. Due to the nature of being in a small team, I was often expected to be more of a generalist programmer and pick up tasks in lots of different areas relating to: Gameplay, UI, , Testing, Networking, Game Design, Sound, Animation, etc.
-
-
-
-weekly meetings
-
-code ownership
-
-quick development
-
-game analytics
-
-
+As a gameplay programmer at Aether Interactive, I was apart of a small team creating experiences on the roblox platform. Due to the nature of being in a small team, I was often expected to be more of a generalist programmer and pick up tasks in lots of different areas relating to: Gameplay, UI, Testing, Networking, Game Design, Sound, Animation, DevOps, etc.
 
 ***
 
 ### Key Skills
 
-TypeScript, React Lua, Luau, ESLint
+TypeScript, React Lua, Luau, ESLint, GitHub, GameAnalytics
 
 ### Key Roblox Libraries
 
@@ -108,11 +96,27 @@ TypeScript, React Lua, Luau, ESLint
 
 </details>
 
-\[Flamework]\([https://fireboltofdeath.dev/docs/flamework/](https://fireboltofdeath.dev/docs/flamework/)).
+### Technical Skills
+
+1. Knowledge of TypeScript (in a non-web environment), writing type-safe, performant code that is maintanable, consistent, and meets the needs of our
+2. Cross-Platform development; developing controls for Keyboard + Mouse, Touch, and Controller; and creating dynamic UI that works on multiple platforms, and many different screen sizes (from 4K to Ultrawide support down to the iPhone 5s).
+3. Understanding client-server architecture to create multiplayer experiences that are less susceptible to cheats.
+4. Implemented analytics using the [GameAnalytics](https://gameanalytics.com/) API. Implemented new features to boost retention and session engagement.
+5. Version Control using GitHub, including feature branches, pull requests, code review, merge conflicts, etc. Followed [conventional commits](https://www.conventionalcommits.org/en/v1.0.0/) for commit messages.
+6. Understanding Luau when debugging transpiled TypeScript code.
+7. Game Design
 
 
 
+Due to t
 
+weekly meetings
+
+code ownership
+
+quick development
+
+game analytics
 
 
 
@@ -122,10 +126,7 @@ TypeScript, React Lua, Luau, ESLint
 
 \[Flamework]\([https://fireboltofdeath.dev/docs/flamework/](https://fireboltofdeath.dev/docs/flamework/)). \[Flamework]\([https://fireboltofdeath.dev/docs/flamework/](https://fireboltofdeath.dev/docs/flamework/)).
 
-### Technical Skills
 
-1. Knowledge of TypeScript (in a non-web environment), writing type-safe, performant code that
-2.
 
 
 
