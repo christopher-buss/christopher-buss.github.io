@@ -28,7 +28,7 @@ I'm primarily interested in how mainstream software methodologies can be applied
 
 I am a big proponent for clean and simple code that gets the job done while still fully meeting business needs. I am also an advocate for the use of good software practices such as entity-component systems (I built my own [nucleus-ecs.md](personal/nucleus-ecs.md "mention")!), automated testing using behaviour-driven development, and the usage of design patterns to simplify common problems.
 
-I graduated from Royal Holloway, University of London with a First-Class Honours in Computer Science (Software Engineering), and have experience with C++, Unreal Engine, and making games on Roblox professionally as a gameplay programmer. Additionally, I have a 💖for open-source software, and have contributed back to many projects that I have been a beneficiary of.
+I have experience with C++, Unreal Engine, and making games on Roblox professionally as a gameplay programmer. Additionally, I have a 💖for open-source software, and have contributed back to many projects that I have been a beneficiary of.
 
 ## My Links
 
