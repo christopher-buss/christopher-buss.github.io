@@ -1,6 +1,6 @@
 ---
 description: >-
-  A performant Entity Component System in TypeScript built for the Roblox
+  A high-performance Entity Component System in TypeScript built for the Roblox
   ecosystem.
 ---
 

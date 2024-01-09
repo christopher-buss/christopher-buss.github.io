@@ -1,5 +1,9 @@
 # 📎 Understanding Projects
 
+##
+
+{% file src="../.gitbook/assets/christopher-buss-cv.pdf" %}
+
 ## How Projects work
 
 Nullam quis risus eget urna mollis ornare vel eu leo. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Maecenas sed diam eget risus varius blandit sit amet non magna. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec id elit non mi porta gravida at eget metus. Donec id elit non mi porta gravida at eget metus.
