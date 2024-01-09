@@ -17,7 +17,6 @@
 ## Education
 
 * [📪 Software Methodologies in AAA - University](education/software-methodologies-in-aaa-university.md)
-* [📎 Understanding Projects](education/understanding-projects.md)
 
 ***
 
