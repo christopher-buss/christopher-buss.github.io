@@ -14,27 +14,14 @@ My typical work involved developing level-object prototypes using blueprint, or 
 
 Unreal Engine 5, C++, Blueprints, Iterative Prototyping, Perforce
 
-
-
-
-
-
-
-
-
-Unreal Engine 5
-
-Gameplay programmer
-
-Iterative prototyping
-
-
-
 ### Technical Skills
 
-1. Experience using Unreal Engine 5 with in-house engine modifications.&#x20;
-2. Being able to read other people’s code to efficiently understand how a system or feature was implemented, to build upon or maintain and make changes. This included both the work of my colleagues and that of the Unreal Engine 5 source code.
-3. Version control, good use of Perforce, including detailed push messages, resolving conflicts and locking binary files where necessary.
+1. Experience using Unreal Engine 5 with in-house engine modifications.
+2. Usage of both C++ and Blueprints; C++ primarily being used for gameplay features, and Blueprints used for the visual-layer, and prototypes.
+3. Being able to read other people’s code to efficiently understand how a system or feature was implemented, to build upon or maintain and make changes. This included both the work of my colleagues and that of the Unreal Engine 5 source code.
+4. Version control, good use of Perforce, including detailed push messages, resolving conflicts and locking binary files where necessary.
+5. Code Review using Helix Swarm, e.g. submitting my code-review requests for appraisal, leaving comments on other people's code to improve the submissions of my collegues, and querying aspects I didn't understand to further enhance my knowledge.
+6. Mathematics for 3D games using Unreal, e.g. bézier curves, and splines.
 
 ### Soft Skills
 
