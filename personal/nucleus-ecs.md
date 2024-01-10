@@ -8,7 +8,7 @@ A high-performance Entity Component System in TypeScript built for the Roblox ec
 **Information:** originally developed by me during my time as Aether Interactive as part of [Tina](https://github.com/AetherInteractiveLtd/Tina) (a development framework for experiences on Roblox), but has since been moved and maintained in my own personal repository.
 {% endhint %}
 
-{% @github-files/github-code-block url="https://github.com/christopher-buss/nucleus" %}
+{% @github-files/github-code-block %}
 
 ### Key Skills
 
