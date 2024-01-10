@@ -22,19 +22,3 @@ Unreal Engine 5, C++, Blueprints, Iterative Prototyping, Perforce
 4. Version control, good use of Perforce, including detailed push messages, resolving conflicts and locking binary files where necessary.
 5. Code Review using Helix Swarm, e.g. submitting my code-review requests for appraisal, leaving comments on other people's code to improve the submissions of my collegues, and querying aspects I didn't understand to further enhance my knowledge.
 6. Mathematics for 3D games using Unreal, e.g. bézier curves, and splines.
-
-### Soft Skills
-
-
-
-
-
-{% hint style="info" %}
-**GitBook tip:** your product docs aren't just a reference of all your features, use them to encourage folks to perform certain actions and discover the value in your product.
-{% endhint %}
-
-## Permission levels
-
-There are 4 types of permission levels in the product.
-
-<table><thead><tr><th width="180">Role</th><th>Capabilities</th></tr></thead><tbody><tr><td>Administrator</td><td>Has all admin privileges</td></tr><tr><td>Editor</td><td>Can edit posts</td></tr><tr><td>Viewer</td><td>Can only view posts</td></tr><tr><td>Guest</td><td>Can only view posts they are inivted to</td></tr></tbody></table>

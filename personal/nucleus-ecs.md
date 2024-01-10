@@ -10,6 +10,10 @@ A high-performance Entity Component System in TypeScript built for the Roblox ec
 
 {% @github-files/github-code-block %}
 
+Nucleus was based on [WolfECS](https://github.com/EnderShadow8/wolf-ecs); a TypeScript ECS for the web, designed to beat benchmarks, but was not fully-fledged enough to be usable in real-world applications. The process included converting the existing ECS to roblox-ts (not all TS functionality exists in Roblox) , cleaning up the codebase, and writing documentation. From here, additional features were added, such as component storage, system scheduling, reactive queries, inline events, and more.
+
+***
+
 ### Key Skills
 
 TypeScript, Prototyping, Profiling, Designing, Building Usable APIs, Documentation writing

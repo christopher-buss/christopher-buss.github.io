@@ -10,6 +10,11 @@ Pranksters Game Page
 
 As a gameplay programmer at Aether Interactive, I was apart of a small team creating experiences on the roblox platform. Due to the nature of being in a small team, I was often expected to be more of a generalist programmer and pick up tasks in lots of different areas relating to: Gameplay, UI, Testing, Networking, Game Design, Sound, Animation, DevOps, etc.
 
+My work primarily consisted of code related to:
+
+1. System Design
+2. User Interface programming
+
 ***
 
 ### Key Skills
@@ -106,29 +111,7 @@ TypeScript, React Lua, Luau, ESLint, GitHub, GameAnalytics
 6. Understanding Luau when debugging transpiled TypeScript code.
 7. Took full ownership over many features, from the design phase, to implementation, and testing.
 
-
-
-Due to t
-
-weekly meetings
-
-code ownership
-
-quick development
-
-game analytics
-
-
-
-
-
-
-
-\[Flamework]\([https://fireboltofdeath.dev/docs/flamework/](https://fireboltofdeath.dev/docs/flamework/)). \[Flamework]\([https://fireboltofdeath.dev/docs/flamework/](https://fireboltofdeath.dev/docs/flamework/)).
-
-
-
-
+### Examples
 
 <details>
 
@@ -243,3 +226,6 @@ export default function InnerButtonBar({ Position }: Readonly<Props>): Roact.Ele
 
 </details>
 
+{% embed url="https://streamable.com/crybwb" %}
+Lobby Creation UI
+{% endembed %}
