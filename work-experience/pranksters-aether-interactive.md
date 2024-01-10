@@ -8,12 +8,14 @@ A party game inspired by Ultimate Chicken Horse and Super Mario Party for PC, Mo
 Pranksters Game Page
 {% endembed %}
 
-As a gameplay programmer at Aether Interactive, I was apart of a small team creating experiences on the roblox platform. Due to the nature of being in a small team, I was often expected to be more of a generalist programmer and pick up tasks in lots of different areas relating to: Gameplay, UI, Testing, Networking, Game Design, Sound, Animation, DevOps, etc.
+In my role as a gameplay programmer at Aether Interactive, I contributed to a small yet dynamic team focused on crafting compelling experiences within the Roblox platform. The inherent nature of being part of a small team meant I was often expected to be more of a generalist programmer and pick up tasks in lots of different areas relating to: Gameplay, UI, Testing, Networking, Game Design, Sound, Animation, DevOps, etc.
 
-My work primarily consisted of code related to:
+My core responsibilities revolved around the following disciplines:
 
 1. System Design
 2. User Interface programming
+
+Within these domains, I played a pivotal role in shaping the overall structure and functionality of core systems, ensuring seamless integration and optimal performance. Additionally, I undertook UI programming tasks, contributing to the overall player experience. The dynamic and multifaceted nature of my role allowed me to actively engage with various aspects of game development, allowing me to develop a more comprehensive skill set as a result.
 
 ***
 
@@ -103,7 +105,7 @@ TypeScript, React Lua, Luau, ESLint, GitHub, GameAnalytics
 
 ### Technical Skills
 
-1. Knowledge of TypeScript (in a non-web environment), writing type-safe, performant code that is maintanable, consistent, and meets the needs of our
+1. Knowledge of TypeScript (in a non-web environment), writing type-safe, performant code that is maintainable, consistent, and meets the business rqeuirements of the project.
 2. Cross-Platform development; developing controls for Keyboard + Mouse, Touch, and Controller; and creating dynamic UI that works on multiple platforms, and many different screen sizes (from 4K to Ultrawide support down to the iPhone 5s).
 3. Understanding client-server architecture to create multiplayer experiences that are less susceptible to cheats.
 4. Implemented analytics using the [GameAnalytics](https://gameanalytics.com/) API. Implemented new features to boost retention and session engagement.

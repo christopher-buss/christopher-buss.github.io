@@ -1,6 +1,6 @@
 ---
 description: >-
-  My personal, highlighy opinionated ESLint config for use in the roblox-ts
+  My personal, highly opinionated ESLint configuration for use in the roblox-ts
   ecosystem.
 ---
 
@@ -10,6 +10,6 @@ description: >-
 
 ***
 
-This was originally based on [Antfu's eslint-config](https://github.com/antfu/eslint-config) but has been modified to support my preferred style using prettier, a stricter set of rules than the default, along with native support for the roblox-ts-eslint-plugin. Many rules that do not apply to the roblox-ts ecosystem have been turned off.
+This configuration was originally derived from [Antfu's eslint-config](https://github.com/antfu/eslint-config), but has been modified to support my preferred coding style. Prettier has been preferred over eslint stylistic due to no autofixable line-length limits, a stricter set of rules than the default has been employed, along with native support for the [**eslint-plugin-roblox-ts**](https://github.com/roblox-ts/eslint-plugin-roblox-ts). Notably, numerous rules that are irrelevant to the roblox-ts ecosystem have been disabled.
 
-This formulates apart of my commitment to clean code. I believe that an entire project should feel like it was written by one programmer, even if 100 different programmers have contributed to the codebase. Consistent codebases can only be achieved through professional tooling - and I believe the best course of action to any inconsistencies in a project is to find rules that can easily aleviate the discrepency (bonus points if it's auto-fixable!).
+This configuration reflects my commitment to maintaining clean code. I believe that an entire project should exhibit a cohesive writing style, even if it involes contributions from 100 different programmers. Achieving consistency across codebases necessitates the use of professional tooling. I firmly believe that addressing inconsistencies in a project is best approached by identifying rules capable of easily rectifying any discrepancies (bonus points if it's auto-fixable!).

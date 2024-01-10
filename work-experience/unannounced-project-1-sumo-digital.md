@@ -17,7 +17,7 @@ C++, ECS, Perforce, Helix Swarm,  Mathematics, Design Patterns
 ### Technical Skills
 
 1. Knowledge of the C++ language and syntax, e.g. RAII, pointers, references, templates, lambas, const evaluation.
-2. Use of ECS architecture - learning a data-driven approach to enhance composition that is antihetical to object-oriented methodology.&#x20;
+2. Use of ECS architecture - learning a data-driven approach to enhance composition that is antithetical to object-oriented methodology.&#x20;
 3. Mathematics for 3D games, e.g. using vectors, linear algebra, AABB bounding boxes.
 4. Made use of data structures, e.g. stacks, queues, vectors; and algorithms, e.g. AI behaviour trees, recursion, collisions, sorting functions.
 5. Implemented design patterns where appropriate, e.g. observer, singleton, template method, state, and event queue.
