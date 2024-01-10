@@ -18,7 +18,7 @@ TypeScript, React Lua, Luau, ESLint, GitHub, GameAnalytics
 
 ### Key Roblox Libraries
 
-[Flamework](https://fireboltofdeath.dev/docs/flamework/), [Janitor](https://howmanysmall.github.io/Janitor/), [Reflex](https://littensy.github.io/reflex/) (Redux alternative), [Ripple](https://github.com/littensy/ripple), [t](https://github.com/osyrisrblx/t).
+[Flamework](https://fireboltofdeath.dev/docs/flamework/), [Janitor](https://howmanysmall.github.io/Janitor/), [Reflex](https://littensy.github.io/reflex/) (Redux alternative), [Ripple](https://github.com/littensy/ripple), [Sift](https://cxmeel.github.io/sift/), [t](https://github.com/osyrisrblx/t).
 
 <details>
 
@@ -104,7 +104,7 @@ TypeScript, React Lua, Luau, ESLint, GitHub, GameAnalytics
 4. Implemented analytics using the [GameAnalytics](https://gameanalytics.com/) API. Implemented new features to boost retention and session engagement.
 5. Version Control using GitHub, including feature branches, pull requests, code review, merge conflicts, etc. Followed [conventional commits](https://www.conventionalcommits.org/en/v1.0.0/) for commit messages.
 6. Understanding Luau when debugging transpiled TypeScript code.
-7. Game Design
+7. Took full ownership over many features, from the design phase, to implementation, and testing.
 
 
 
