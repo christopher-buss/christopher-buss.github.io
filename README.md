@@ -14,11 +14,9 @@ layout:
 
 # 👋 Welcome
 
-game lover. **game developer**.
+game lover. **game developer**.&#x20;
 
-&#x20;
-
-<figure><img src=".gitbook/assets/unreal.gif" alt="" width="271"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/unreal.gif" alt=""><figcaption></figcaption></figure>
 
 ## Who am I?
 
@@ -26,7 +24,7 @@ I'm Christopher, a Software Engineer in the games industry.
 
 I'm primarily interested in how mainstream software methodologies can be applied to the games industry pipeline to help improve the developer experience, reduce code complexity, lower development costs, and alleviate crunch.
 
-I strongly advocate for clean and straightforward that not only accomplishes tasks but also fully aligns with business requirements. Furthermore, I support the adoption of good software practices such as entity-component systems (I built my own [nucleus-ecs.md](personal/nucleus-ecs.md "mention")!), utilising automated testing through behaviour-driven development, and employing patterns to simplify common problems in software design.
+I strongly advocate for clean and straightforward code that not only accomplishes tasks but also fully aligns with business requirements. Furthermore, I support the adoption of good software practices such as entity-component systems (I built my own [nucleus-ecs.md](personal/nucleus-ecs.md "mention")!), utilising automated testing through behaviour-driven development, and employing patterns to simplify common problems in software design.
 
 I have experience with C++, Unreal Engine, and making games on Roblox professionally as a gameplay programmer. Additionally, I have a 💖for open-source software, having actively contributed to numerous projects that have benefited me throughout my career.
 
