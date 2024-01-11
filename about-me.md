@@ -2,7 +2,7 @@
 
 Hello once again! I'm Christopher. I graduated from Royal Holloway, University of London in 2023 with a First-Class Honours in Computer Science (Software Engineering), with a year in industry. My passion for video games dates back to my early years, and I particularly enjoy 💖multiplayer experiences with friends.
 
-My favourite sort of games is "thousand-hour games".&#x20;
+My favourite sort of games are "thousand-hour games".&#x20;
 
 > A game where you earn so much enthusiasm from your players that **they spend over a year playing it, for several hours every day**. Every single day.
 
