@@ -1,4 +1,4 @@
-# 🎵 About Me
+# 💬 About Me
 
 Hello once again! I'm Christopher. I graduated from Royal Holloway, University of London in 2023 with a First-Class Honours in Computer Science (Software Engineering), with a year in industry. My passion for video games dates back to my early years, and I particularly enjoy 💖multiplayer experiences with friends.
 
