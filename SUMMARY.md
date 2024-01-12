@@ -20,7 +20,7 @@
 
 ***
 
-* [CV](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FVSvIHcyxVF68tlo0Lbdf%2Fuploads%2FtpkzBToWWMdMxEiNvgD2%2FGames\_CV-1.pdf?alt=media\&token=262d6d67-8d56-4605-809c-2241ef5c96fb)
+* [CV](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FVSvIHcyxVF68tlo0Lbdf%2Fuploads%2FQbSUyAYSa3IiQ7lvPnQt%2FGames\_CV-3.pdf?alt=media\&token=8796cda9-58bb-4219-869c-50b93116fb42)
 * [Email](mailto:christopher.buss+portfolio@protonmail.com)
 * [GitHub](https://github.com/christopher-buss)
 * [LinkedIn](https://www.linkedin.com/in/christopherbuss/)
